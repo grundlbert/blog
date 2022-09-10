@@ -1,3 +1,5 @@
+theme: minima
+
 defaults:
   - scope:
       path: ""
@@ -8,3 +10,4 @@ defaults:
       path: ""
     values:
       layout: "default"
+
