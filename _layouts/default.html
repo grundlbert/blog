@@ -6,10 +6,16 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
-  <body>
-    <div>
+
+  <header>
     {% include navigation.html %}
+  </header>
+  <body>
+    <main>
     {{ content }}
-  </div>
+    </main>
+    <footer>
+      <p>&#9400; Daliah Frühling 2022</p>
+    </footer>
   </body>
 </html>
