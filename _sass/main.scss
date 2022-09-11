@@ -1,6 +1,6 @@
 .current {
-    color: #ffffff;
-    background-color: #243515; 
+    color: black;
+    background-color: white; 
   }
 
 h1 {
@@ -13,5 +13,18 @@ p {
 }
 
 nav {
-  background-color: aqua;
+  background-color: black;
+  color: white;
+}
+
+div {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-image:url(/_images/sbgsunset.JPG);
+  background-position: center center;
 }
