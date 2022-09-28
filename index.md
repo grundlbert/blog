@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Hello World!
-## Wilkommen auf Daliahs lustigem Reiseblog!
+## Willkommen auf Daliahs lustigem Reiseblog!
 
 ### Hier kann man einerseits unsere Erlebnisse auf der Weltreise und andererseits meine Programmierskills mitverfolgen. Derzeit ist beides noch nicht sehr fortgeschritten, aber zumindest die Weltreise geht am 29.9. los! Bis es hier gscheide Inhalte gibt könnt ihr euch ein selbstgemachtes Stockfoto einer schreibenden Daliah in einer Blumenwiese anschauen. Viel Spaß dabei!
 
