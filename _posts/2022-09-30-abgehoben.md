@@ -3,9 +3,11 @@ title: 30.9. Voll abgehoben
 author: Daliah
 ---
 
-Nachdem wir am Mittwoch in Wien einen lustigen Abend mit alten und neuen Freunden verbracht haben und uns am nächsten Tag mit weiteren wichtigen Menschen, die es nicht zur Abschedsparty geschafft haben eine Pizza gegönnt haben, sind wir endlich zum Flughafen gefahren. Hier seht ihr noch ein Bild von Martin beim letzten Frühstück in Österreich 2022!
+Nachdem wir am Mittwoch in Wien einen lustigen Abend mit alten und neuen Freunden verbracht haben und uns am nächsten Tag mit weiteren wichtigen Menschen, die es nicht zur Abschedsparty geschafft haben eine Pizza gegönnt haben, sind wir endlich zum Flughafen gefahren.
 
-<img src="/assets/img/VIE.jpg" alt="Frühstück in Wien" width="50%">
+Hier seht ihr noch ein Bild von Martin beim letzten Frühstück in Österreich 2022!
+
+<img src="/assets/img/VIE.jpg" alt="Frühstück in Wien" width="40%">
 
 Es war mein erstes mal fliegen und ich war wirklich sehr aufgeregt. Ich hab mich wie ein Schnitzel über meinen Fensterplatz gefreut, obwohl man schon sehr den Kopf verdrehen musste, um am Flugzeugflügel vorbeizuschauen. Um halb 11 in der Nacht sind wir in unserem Zwischenstop Doha gelandet und beim Landeanflug konnten wir ein riesiges Meer aus orangen und pinken Lichtern sehen. Das war wirklich schön. Die Luft in Doha war warm und feucht. Wir haben vier Stunden auf diesem riesigen Flughafen gewartet, sind mit lustigen Rollbändern gefahren, haben uns teure Sachen in Duty Free Shops angeschaut und schlussendlich eine <i>Quiet Area</i> mit Liegen gefunden. Richtig geschlafen haben wir dann aber erst im Flieger nach Kathmandu, weil in der <i>Family Area</i> (die genau neben der <i>Quiet Area</i> mit den Liegen ist) ein kleines Kind sehr enthusiastisch mit Laufen und Schreien beschäftigt war. Aber das war eigentlich gar nicht schlimm und das bisschen Dösen hat auch nicht geschadet. 
 
