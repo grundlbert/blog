@@ -18,6 +18,8 @@ Heute Morgen haben wir dann aus dem Flugzeugfenster weiße Bergspitzen gesehen, 
 
 Der Verkehr in Kathmandu ist verglichen mit dem was man aus Österreich gewohnt ist richtig wild, es wird viel gehupt und jeder fährt dort wo halt gerade Platz ist. Nachdem wir im Hotel einen Begrüßungstee getrunken haben, haben wir ein bisschen die Umgebung erkundet. Es sind sehr viele Leute auf der Straße, hin und wieder liegen dösende Hunde herum und vor unserem Hotel parken einige Fahrradrikschas. Es gibt viele kleine Shops in denen man alles mögliche kaufen kann und in allen Straßen hängen massenweise Kabel herum.
 
+<img src="/assets/img/KTH Balkon.jpg" alt="Blick vom Balkon in Kathmandu" width="60%" >
+
 Morgen bleiben wir noch in Kathmandu, danach werden wir ein bisschen durch die Landschaft wandern und nächste Woche schauen wir uns den Chitwan Nationalpark an (dort gibts Nashörner und Tiger undso). Ich bin schon sehr gespannt was wir hier noch alles sehen und bin jetzt schon froh, dass wir wir uns für einen Stop in Nepal entschiedenen haben. 
 
 <i>I flew for the first time and it was amazing! We landed in Nepal today and the People are very friendly but the traffic is crazy. We got a welcome-tea at the Hotel and everything is very different from Austria. But more of that in the next post.</i>
