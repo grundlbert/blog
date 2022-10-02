@@ -1,0 +1,12 @@
+<div class="comments">
+    <form id="postCommentFormNetlify" method="POST" netlify-honeypot="bot-field" data-netlify="true" accept-charset="utf-8">
+        <h2>Kommentare</h2>
+        <label>Name:<br><input type="text" name="name" placeholder="Dein Name" required></label><br>
+        <label>Hinterlasse uns eine Nachricht:<br><textarea name="message" placeholder="Deine Nachricht"></textarea></label>
+        <input type="hidden" name="bot-field"/>
+        <input type="hidden" name="subject" value="Blog Kommentar" />
+        <div class="cell">
+            <button type="submit" class="button" name="submit">Abschicken</button>
+        </div>
+    </form>
+</div>
