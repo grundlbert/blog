@@ -1,13 +1,15 @@
 <div class="comments">
     <form id="postCommentFormNetlify" method="POST" netlify-honeypot="bot-field" data-netlify="true" accept-charset="utf-8">
         <h2>Kommentare</h2>
-        <label>Name:<br><input type="text" name="name" placeholder="Dein Name" required></label><br><br>
-        <label>Gib deinen Senf dazu!<br><textarea cols="40" rows="5" name="message" placeholder="Deine Nachricht"></textarea></label>
         <input type="hidden" name="subject" value="Blog Kommentar" /><br><br>
-        <label for="newsletter">Mein Kommentar soll veröffentlicht werden</label>
+        <label name="blogpost" value="{{ page.title }}"></label>
+        <label>Name:<br><input type="text" name="name" placeholder="Dein Name" required></label><br><br>
+        <label>Gib deinen Senf dazu!<br><textarea cols="40" rows="5" name="message" placeholder="Deine Nachricht"></textarea></label><br>
+        <label>Mein Kommentar soll veröffentlicht werden</label>
         <input type="checkbox" name="veroeffentlichen" value="yes"><br><br>
         <div class="cell">
             <button type="submit" class="button" name="submit">Abschicken</button>
         </div> 
     </form>
 </div>
+

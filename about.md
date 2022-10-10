@@ -4,7 +4,7 @@ title: About
 ---
 # Hallo!
 
-### Wir sind Daliah und Martin und wenn ihr hier gelandet sein kennt ihr uns wahrscheinlich eh schon. Diejenigen die uns nocht nicht so gut kennen sollen aber auch nicht enttäuscht werden, deshalb wird hier in nächster Zeit sicher einmal der eine oder andere Fun-Fact über uns auftauchen (und falls er zu peinlich ist wieder verschwinden).
+### Wir sind Daliah und Martin und wenn ihr hier gelandet sein kennt ihr uns wahrscheinlich eh schon. Diejenigen die uns noch nicht so gut kennen sollen aber auch nicht enttäuscht werden, deshalb wird hier in nächster Zeit sicher einmal der eine oder andere Fun-Fact über uns auftauchen (und falls er zu peinlich ist wieder verschwinden).
 
 
 <img src="/assets/img/eis_vienne.jpeg" alt="Daliah und Martin essen geiles Eis in Vienne" width="60%">
