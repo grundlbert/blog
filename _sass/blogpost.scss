@@ -10,19 +10,29 @@
 
 .com_Section {
   background-color: #f9d27f;
-  padding: 10px 50px;
-  
+  padding: calc(1%) calc(5%);
+  textarea {
+    width: 100%;
+    height: 200px;
+  }
 }
 
 .com_Comment {
   border: black;
   border-style: solid;
-  padding: 10px;
-  margin: 5px;
+  padding: calc(1%);
+  margin: calc(1%) 0;
   background-color: lightblue;
   h5 {
     font-size: large;
     text-align: left;
     color: green;
+  }
+}
+
+@media (max-width: 39.9375em) {
+  .com_Comment {
+    padding: calc(5%);
+    margin: calc(5%) 0;
   }
 }

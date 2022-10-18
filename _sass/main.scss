@@ -56,14 +56,16 @@ main {
   width: 60%;
   max-width: 1500px;
   background-color: #ffeead;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 20px;
-  padding-top: 20px;
-  padding-right:40px;
-  padding-left: 40px;
-  padding-bottom: 20px;
-  
+  margin: 20px auto 0px auto;
+  padding: calc(1%) calc(3%);
+//old styling
+//  margin-left: auto;
+//  margin-right: auto;
+//  margin-top: 20px;
+//  padding-top: 20px;
+//  padding-right:40px;
+//  padding-left: 40px;
+//  padding-bottom: 20px;
 }
 
 body {
@@ -119,4 +121,10 @@ img {
   font-weight: bold;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+@media (max-width: 39.9375em) {
+  main {
+    width: 80%;
+  }
 }
