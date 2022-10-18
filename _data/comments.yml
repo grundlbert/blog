@@ -1,8 +1,16 @@
 - date: 5.10.2022
   post: kathmandu
+  name: Andi P.
+  message: 2022-10-05-andi_p.md
+- date: 5.10.2022
+  post: kathmandu
   name: Greg
   message: 2022-10-05-greg.md
-- date: "5.10.2022"
-  post: "kathmandu"
-  name: "Andi P."
-  message: "2022-10-05-andi_p.md"
+- date: 12.10.2022
+  post: kathmandu
+  name: Matz
+  message: 2022-10-12-matz.md
+- date: 18.10.2022
+  post: wir_leben_noch
+  name: Martin
+  message: 2022-10-18-martin.md

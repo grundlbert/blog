@@ -1,10 +1,3 @@
-.comments {
-  background-color: #f9d27f;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 50px;
-}
-
 .blogpost {
   h5 {
     text-align: center;
@@ -12,5 +5,24 @@
   figcaption{
     margin-top: 10px;
     text-align: center;
+  }
+}
+
+.com_Section {
+  background-color: #f9d27f;
+  padding: 10px 50px;
+  
+}
+
+.com_Comment {
+  border: black;
+  border-style: solid;
+  padding: 10px;
+  margin: 5px;
+  background-color: lightblue;
+  h5 {
+    font-size: large;
+    text-align: left;
+    color: green;
   }
 }
