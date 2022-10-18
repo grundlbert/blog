@@ -11,5 +11,10 @@
             <button type="submit" class="button" name="submit">Abschicken</button>
         </div> 
     </form>
-</div>
 
+    {% for item in site.data.comments %}
+        {% if item.post == page.comment_title %}
+            <p>{{ item.date }}</p>
+        {% endif %}
+    {% endfor %}
+</div>

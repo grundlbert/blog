@@ -10,9 +10,13 @@
   <header>
     {% include navigation.html %}
   </header>
-  <body>
+    {% if page.bg_img %}
+      <body style="background-image:url(/assets/img/{{ page.bg_img }});">
+    {% else %}
+      <body>
+    {% endif %}
     <main>
-    {{ content }}
+      {{ content }}
     </main>
     <footer>
       <p>

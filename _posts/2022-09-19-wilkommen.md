@@ -1,6 +1,8 @@
 ---
 title: 19.9. Willkommen
 author: Daliah
+bg_img: AT-mohn.JPG
+comment_title: wilkommen
 ---
 
 Willkommen auf meinem Reiseblog!
