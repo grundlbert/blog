@@ -1,5 +1,5 @@
 ---
-title: 21.10. Coron Town
+title: 28.10. Coron Town
 author: Daliah
 comment_title: coron
 bg_img: PHILIPPINEN.JPG
