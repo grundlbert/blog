@@ -25,7 +25,7 @@ Vor dem Flughafen haben große Taxivans gewartet, mit einem davon sind wir dann 
 
 Unser Hotel hatte eine ziemlich coole Dachterrasse, auf der Martin am Abend einen sehr netten Südkoreaner kennen gelernt hat, der zwar nicht wirklich Harry hieß, aber sich so vorgestellt hat weil viele Leute Probleme haben, seinen koreanischen Namen auszusprechen. Ich hab mich dann auch zu ihnen gesetzt und wir haben recht lange mit ihm gequatscht. Er hat unter anderem erzählt, dass es in der Nähe *Hot Springs* gibt, die richtig cool sind, und dass man ein Moped mieten und da hin fahren kann.
 
-##### Dienstag 18. Oktober
+##### Dienstag 18. Oktober - Erstmal wandern gehen!
 
 An unserem ersten richtigen Tag in Coron sind wir nach dem Frühstück erstmal siebenhundertirgendwas Stufen auf den *Mount Tapyas* gelatscht. Es war richtig heiß und feucht und anstrengend und wir haben einige Pausen gemacht, aber der Ausblick vom *View Deck* oben war schon richtig cool. Man hat die Stadt Coron gesehen, das Meer, andere Inseln und noch mehr Hügel. Wir sind dann auf einem kleinen Weg ein paar hundert Meter weg vom *View Deck* zu einem kleinen Pavillion gewandert, sind dort ein bisschen herumgesessen und haben gequatscht und Hügel angeschaut. Bevor wir wieder runtergegangen sind, haben wir noch Katzen unter den Sitzbänken am *View Deck* entdeckt, die waren ziemlich lieb.
 
@@ -204,11 +204,11 @@ Nachdem wir unser Moped zurückgebracht haben, haben wir uns am Weg zurück klei
 
 Später haben wir uns gefüllte Pitabrote gekauft und sind dann in eine ziemlich coole Rooftop Bar gegangen, von der aus man sicher das Meer gesehen hätte, wenn es nicht schon dunkel gewesen wäre. Dafür hat man viele Lichter und Palmen und Häuser gesehen, das war auch schön. Auch ein paar Geckos sind dort herumgeklettert. Während wir auf unser Essen gewartet haben (Daliah: *Eggplant Salad*, Martin: *Tofu Sisig*) haben wir darüber geredet, dass Streetfood hier dreimal so billig ist wie daheim und oft dreimal so viele Leute im Stand herumstehen, man aber auch irgendwie dreimal so lange warten muss. Nach dem Essen waren wir hundemüde und sind zurück ins Hotel gewandert.
 
-##### Montag 24. Oktober
+##### Montag 24. Oktober - Pausentag
 
 Am Montag ist eigentlich nicht viel passiert. Wir habam den Vormittag mit Blogschreiben und anderen Computersachen verbracht, dann sind wir für ein spätes Mittagessen wieder ins *Tres Marias* gegangen und haben in Kokosmilch gekochtes Schweinefleisch mit Reis gegessen. Dann haben wir wieder einen kurzen Abstecher ins Hotel gemacht, der sich jedoch ziemlich verlängert hat, weil wir beide angefangen haben etwas zu tun, bis der andere fertig ist und nicht gemerkt haben, dass wir beide auf den jeweils anderen warten. Martin wollte dann noch einmal auf den *Mount Tapyas* gehen und sich den Sonnenuntergang anschauen. Da es sehr warm und feucht war, hatte ich eigentlich keine Lust auf siebenhundertirgendwas Stufen, auch wenn es sicher sehr nett gewesen wäre. Außerdem war ich ein bisschen grantig, weil wir so viel Zeit im Hotel verplempert haben, und ich noch gerne den *Mangrove Trail* gewandert wäre. Da wir jedoch vorhatten, am nächsten Tag in Richtung Busuanga weiterzuziehen, sah es aus, als würde sich das nicht mehr ausgehen. Nach einer kleinen Diskussion sind wir dann hinunter zum Strand und haben uns dort Bananen-essend den Sonnenuntergang angeschaut und Fotos gemacht. Außerdem haben wir beschlossen, einen Tag länger in Coron Town zu bleiben.
 
-##### Dienstag 25. Oktober
+##### Dienstag 25. Oktober - Bonustag!
 
 An unserem Bonustag in Coron gingen wir gleich in der Früh (nach Frühstück und einem bisschen herumwurschteln und Sachen einpacken) Richtung *Dicanituan Island*, wo der *Mangrove Trail* ist. Zwischen Coron und dem Meer lieg eine große Fläche, die nur aus rötlichem Schotter und kleinen bis riesigen Pfützen besteht, auf dieser netten Einöde sind wir entlangspaziert und das war ziemlich cool, weil es solche Flächen in Österreich zimlich selten gibt, weil sie entweder zuwachsen oder zugebaut werden und ich so etwas noch nicht so oft in echt gesehen habe. Die Flächen sind ein ziemlich cooler Lebensraum, zumindest konnten wir kleine Vögel beobachten, die zwischen den Pfützen herumliefen und aussahen, als wären sie bestens an diesen Lebensraum angepasst (sie waren unter anderem ziemlich schwer zu sehen, wenn sie nicht gerade herumliefen). Auch großere, weiße, reiherartige Vögel standen immer in den Pfützen und in den mit hohem Gras bewachsenen Bereichen herum, außerdem haben wir unglaublich viele Libellen gesehen.
 
@@ -233,7 +233,7 @@ Wieder im Hotel haben wir dann entdeckt, dass die Ameisen, deren kleine Ameisens
 
 Andy hat uns außerdem geschrieben, dass wir leider doch nicht am nächsten Tag schon kommen können, weil sein Boot kaputt ist und es nicht wirklich einen Landweg dorthin gibt, wo er lebt. Nach einem bisschen überlegen hatte er aber dann die Idee, dass wir eine Nacht im *Al Faro* buchen, einem fancy Resort 10 Gehminuten von ihm entfernt. Die haben nämlich ein funktionierendes Boot und holen uns dann ab, weil es zu ihnen auch keinen richtigen Landweg gibt. Also haben wir dort eine Nacht von Donnerstag auf Freitag gebucht und unser Hotel in Coron um noch einen Tag verlängert und beschlossen, am nächsten Tag einen Roadtrip zum *Cabo Beach* und zum *Marcilla Beach* zu machen.
 
-##### Mittwoch 26. Oktober
+##### Mittwoch 26. Oktober - Roadtrip 2.0
 
 Nach ausgiebigem Frühstücken und packen haben wir uns beim Mopedverleih unseres Vertrauens ein Moped geholt und sind in Richtung Osten gefahren. Der Befestigungsgrad der Straße hat langsam aber stetig abgenommen, wir sind am Hafen vorbei, aus der Stadt hinaus, in den Wald hinein und an den *Hot Springs* vorbei gefahren. Dann ging es rumpelig weiter, einmal haben wir am Straßenrand einen Waran gesehen, der dann aber schnell abgehaut ist. Nachdem wir von der Hauptstraße in Richtung *Cabo Beach* abgebogen sind, sind wir durch einen dichten Bambuswald gefahren, der war ziemlich cool. Wir haben es bis zum *Cabo Beach* geschafft, 50₱ (~1€) *entrance fee* gezahlt, haben unser Zeug unter einem Baum platziert und uns in die brunzwarmen Fluten gestürzt. Der Strand war ziemlich cool, ein richtiger Sandstrand von dem aus man einen tollen Blick auf *Coron Island* hatte. Wir haben lustigen Meeresspaß gehabt und den Strand erkundet, irgendwann hat es angefangen zu regnen und wir haben uns im Meer vor der Kälte versteckt. Martin hat einen Ohrring gefunden und gleich wieder aus versehen ins Meer fallen lassen und verloren.
 
@@ -253,7 +253,7 @@ Während der Fahrt habe ich auf einmal ein kleines schwarzes Kätzchen auf der S
 
 Wir waren bald in Coron und nach einem bisschen Verwirrung haben wir auch wieder einen Teil der Stadt erreicht, den wir schon einmal gesehen haben. Wir haben noch getankt und dann das Moped zurückgebracht. Nach dem Duschen im Hotel wollten wir noch essen gehen, aber auf halbem Weg haben wir dann beschlossen, dass wir eigentlich nicht soooo hungrig sind, dafür aber recht müde. Dann sind wir wieder umgedreht und nach einigem Rucksackpacken ins Bett gegangen.
 
-##### Donnerstag 27. Oktober
+##### Donnerstag 27. Oktober - Ab zur Busuanga Bay!
 
 Gestern früh snd wir noch vor dem Frühstück losgezogen um uns einen Van zu organisieren, der uns zum *Al Faro*. Dort wo die Vans wegfahren war aber noch keiner, alo sind wir Frühstücken gegangen. Nach dem Frühstück bin ich alleine nochmal hingegangen und hab erfahren, dass immer dann ein *public van* fährt, wenn genügend Leute beisammen sind (es gibt auch *private vans*, die fahren zwar dann wenn man will, sind aber ziemlich teuer). Wir haben dann fertig gepackt, ausgecheckt und uns auf den Weg zum *RRIBB* gemacht, um ein paar Sachen einzukaufen. Wir haben dort größtenteils Konserendosen gekauft, die dann in einen Karton eingepackt und verschnürt wurden. Damit sind wir zu den Vans zurückgelatscht und haben gefragt, ob wir unser Zeug hier lassen können, bis wir alles haben und mit einem Van fahren. Das hat super funktioniert und wir sind richtung Meer spaziert, weil uns jemand gesagt hat, da gäbe es frisches Gemüse in einem *Supermarket*. Wir sind dann in eine Ecke gekommen, in der wir vorher noch nie waren haben dort eine riesige, leicht heruntergekommene Markthalle gefunden.
 
@@ -263,6 +263,6 @@ Die Van-Fahrt war schnell und deshalb recht rumpelig und wir wurden dann samt Ge
 
 {% include image.html file="PH27_Martin.JPG" description="Martin am Pool im Al Faro" width="60%" %}
 
-##### Freitag 28. Oktober
+##### Freitag 28. Oktober - Ab in den Jungel!
 
 Heute werden wir schon wieder aus dem *Al Faro* auschecken (auch wenn es sehr geil ist) und uns hoffentlich mit dem Boot dorthin fahren lassen, wo wir die nächste Woche im Wald leben werden. Ich bin schon mega gespannt und hoffe dass es cool wird!
