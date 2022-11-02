@@ -6,7 +6,7 @@ title: Home
 # Hello World!
 ## Willkommen auf Daliahs lustigem Reiseblog!
 
-### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Für alle die wissen wollen, wo es hingeht haben wir eine tolle Karte gebastelt und dann ein Foto davon gemacht (alle Angaben ohne Gewähr). Mit Bonus-Ramsch!
+### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Wir sind seit 29.9.2022 Unterwegs und für alle die wissen wollen, wo es hingeht haben wir eine tolle Karte gebastelt und dann ein Foto davon gemacht (alle Angaben ohne Gewähr). Mit Bonus-Ramsch!
 
 <img src="/assets/img/Karte.JPG" alt="Weltreisekarte" width="70%">
 
