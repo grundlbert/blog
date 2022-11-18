@@ -6,7 +6,7 @@ bg_img: /main_img/PHILIPPINEN.JPG
 
 # Willkommen auf Daliahs lustigem Reiseblog!
 
-### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Wir sind seit 29.9.2022 Unterwegs und für alle die wissen wollen, wo es hingeht haben wir eine tolle Karte gebastelt und dann ein Foto davon gemacht (alle Angaben ohne Gewähr). Mit Bonus-Ramsch!
+### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Wir sind seit 29.9.2022 unterwegs und für alle die wissen wollen, wo es hingeht haben wir eine tolle Karte gebastelt und dann ein Foto davon gemacht (alle Angaben ohne Gewähr). Mit Bonus-Ramsch!
 
 <img src="/assets/img/main_img/Karte.JPG" alt="Weltreisekarte" width="70%">
 
