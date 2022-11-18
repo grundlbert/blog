@@ -2,6 +2,11 @@
   h5 {
     text-align: center;
   }
+
+h2 {
+  text-align: center;
+}
+
   figcaption{
     margin-top: 10px;
     text-align: center;
@@ -28,6 +33,28 @@
     text-align: left;
     color: green;
   }
+}
+
+.teaser {
+  background-color: #96ceb4;
+  padding: calc(1%) calc(5%);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  textarea {
+    width: 100%;
+    height: 200px;
+  }
+h2 {
+  font-size: x-large;
+  text-align: center;
+  margin-top: 5px;
+  padding-bottom: 10px;
+}
+h3 {
+  font-size: larger;
+  text-align: center;
+  font-weight: 800;
+}
 }
 
 @media (max-width: 39.9375em) {

@@ -2,7 +2,7 @@
 title: 18.10. Hallo wir leben noch!
 author: Daliah
 comment_title: wir_leben_noch
-bg_img: NEPAL.JPG
+bg_img: /main_img/NEPAL.JPG
 ---
 
 Wer diesen Blog in den letzten Tagen aufmerksam (oder auch unaufmerksam) mitverfolgt hat wird bemerkt haben, dass seit wir in Kathmandu angekommen sind rein gar nichts mehr passiert ist. Das ist auf eine Reihe an glücklichen und unglücklichen Fügungen zurückzuführen, die euch in diesem Post nun nähergebracht werden. Spoiler: Wir leben noch.
@@ -41,7 +41,7 @@ Hier ist eine Liste mit Dingen, die wir beim Busfahren gesehen haben:
 
 Als wir durch die ländlicheren Gegenden gefahren sind ist mir aufgefallen, dass die meisten modernen Häuser sehr ähnlich gebaut sind: Jedes dieser Häuser sieht aus, als wäre es dafür gebaut, einmal Teil einer Häuserreihe zu sein, mit einer hübschen, aber schmalen Vorderseite mit Fenstern und Balkonen, dafür an den restlichen Seiten fensterlos und entweder grau oder riesengroß mit Werbung bemalt.
 
-##### Montag 3. Oktober
+## Montag 3. Oktober
 
 Nachdem wir eine Nacht in Pokhara verbracht haben und einen Rucksack voll Gepäck im Hotel deponiert haben, sind wir am nächsten Tag mit unserem Guide Nishan mit dem Taxi nach Birethati gefahren. Auf dem Weg aus der Stadt haben wir einge Ziegenherden am Straßenrand gesehen. Nishan hat uns erklärt, dass die Menschen wegen dem Dashain Festival Ziegen kaufen. Irgendwann hat ein Bus das Taxi geschnitten und wir haben eine Vollbremsung gemacht und sind gegen die Leitplanke in der Mitte der Straße gefahren. Das war ohne Sicherheitsgurt ganz schön abenteuerlich, aber es ist niemandem etwas passiert. Nach 1 1/2 Stunden waren wir in Birethati und sind losmarschiert.
 
@@ -60,7 +60,7 @@ Später haben wir beschlossen, noch einmal die paar Meter zur Hängebrücke zu g
 
 Als wir wieder beim Teahouse waren haben wir das Kamerazeug in der Kameratasche verstaut und Sony und ihre kleine Schwester waren sehr fasziniert, vor allem von dem Objektivreinigungspinsel, den man aus- und einfahren kann. Dann haben sie uns gefragt, ob wir zeichnen wollen und wir haben bis zum Abendessen mit ihnen gezeichnet (jeder sich selbst, die Flaggen unserer Länder, Blumen, Tiere, was man halt so zeichnet). Nishan isst beim Trekken immer Dal Bhat, weil "*Dal Bhat Power - 24 hour*". Nach dem Essen haben wir unsere Zeichnungen noch mit Farbstiften ausgemalt und dann sind wir richtig früh ins Bett gegangen, weil wir richtig fertig waren. Der Wasserfall hat die ganze Nacht gerauscht.
 
-##### Dienstag 4. Oktober
+## Dienstag 4. Oktober
 
 Am nächsten Tag gab es Stufen. Viele Stufen. Und ich war nicht mehr ganz so begeistern von Trekken, weil es auf einmal doch bergauf gegangen ist, und zwar richtig heftig bergauf. Wir sind gefühlt alle 10 Minuten stehen geblieben und Nishan hat gesagt wir machen das *slowly, slowly*. Mehr als *slowly, slowly* hätte ich eh nicht hingekriegt.
 
@@ -75,7 +75,7 @@ Beim Mittagessen haben wir uns mit einem Australier namens Joe unterhalten, der 
 
 Am Ende des zweiten Tages sind wir in Ghorepani angekommen. Vom Teahouse dort hatten wir eine richtig gute Aussicht, vor allem vom Klo aus. Das war auch das einzige Teahouse, in dem wir ein eigenes Klo und eine eigene Dusche hatten. *Hot Showers* gab es allerdings trotzdem nur am Gang. Ich bin dort zum Duschen hingegangen, aber im meinem Fall hat das *Hot* nur den bedeutet, dass das Wasser zwar immer noch kalt ist, aber immerhin nicht so kalt dass es weh tut. Martin war in der anderen der beiden *Hot Showers* und hatte da mehr Glück (also eine wirklich warme Dusche). Am Abend hat es ziemlich heftig angefangen zu regnen, Nishan war aber zuversichtlich, dass es bis zum Morgen wieder aufhört, obwohl der Wetterbericht gesagt hat, dass es jetzt drei Tage durchgehend schifft. Am nächsten Morgen hätten wir uns nämlich am Poon Hill den Sonnenaufgang angeschaut, weshalb wir sehr früh aufbrechen mussten.
 
-##### Mittwoch 5. Oktober
+## Mittwoch 5. Oktober
 
 Am Morgen des dritten Tages hat der Wetterbericht recht behalten und es hat immer noch geregnet. Deshalb haben wir uns nach dem sehr früh aufstehen auch gleich einmal wieder hingelegt und noch ein Extrastündchen geschlafen, bevor wir endgültig aufgestanden sind. Nishan hat dann gesagt wir warten noch ein bisschen, vielleicht hört es noch auf. Hat es nicht. Dafür haben 3 Inder Nishan gefragt, ob sie mit uns mitgehen können, weil sie ohne Guide aufgebrochen sind, aber den Weg nicht wissen. Nishan hat ja gesagt und die drei haben sich uns vorgestellt, wir haben uns aber ihre Namen nicht gemerkt weil alles recht schnell geangen ist und es irgendwie schwieriger ist, sich Namen zu merken, die man noch nie gehört hat. Deshalb (und weil wir uns dann nicht mehr nachfragen getraut haben) haben wir unsere drei neuen Kameraden später anhand der Beschaffenheit ihrer Regenmäntel benannt. Alle drei Inder hatten nämlich im Gegensatz zu uns Regenschutzdinger aus Plastik, wir hatten nur unsere Goretex Jacken, die von allen etwas schief beäugt worden sind.
 
@@ -90,7 +90,7 @@ Den Großteil des Tages sind wir durch den Wald marschiert. Es ist so dermaßen 
 
 Am Abend sind wir sehr nass in Tadapani angekommen. In dem Teahouse gab es zum Glück eine Art Stube mit einem Holzofen, wo sehr viele Leute waren, alle ihr Gewand aufgehängt haben. Wir haben Reispudding gegessen, der ähnlich wie Milchreis war, und das meiste Gewand ist sogar irgendwie trocken geworden.
 
-##### Donnerstag 6. Oktober
+## Donnerstag 6. Oktober
 
 {% include image.html file="TR4 Maddin.JPG" description="Morgen in Tadapani" width="60%" %}
 
@@ -101,7 +101,7 @@ Am Donnerstag haben sich die Inder eine andere Gruppe gesucht, der sie sich ansc
 
 Am Nachmittag waren wir schon bald in dem Teahouse, in dem wir dann auch übernachtet haben. Es gab wieder einen Raum mit einem Ofen, diesmal aber mit weniger Leuten, die ihr Gewand aufhängen wollten. Martin hat Nishan gefragt, ob er uns Nepalesische Musik zeigen kann und am Abend hat uns Nishan tatsächlich ein nepalesisches Lied namens *Resham Firiri* beigebracht. Das haben wir dann gemeinsam gesungen und Nishan hat dazu getrommelt. Später hat die Familie, der das Teahouse gehört hat laut Musik gehört und ihr kleiner Sohn hat dazu getanzt und alle haben geklatscht und wir sind auch im Raum herumgesessen und es war irgendwie schön, da dabeisein zu können und irgendwie seltsam, weil wir ja eigentlich ganz fremde Leute waren.
 
-##### Freitag 7. Oktober
+## Freitag 7. Oktober
 
 {% include image.html file="TR5 Haus.JPG" description="Traditionelles nepalesisches Haus" width="60%" %}
 
@@ -116,6 +116,6 @@ Die kleinen Wege sind langsam wieder zu richtigen Straßen geworden und irgendwa
 
 In Birethati haben wir dann noch zu Mittag gegessen und eine Gottesanbeterin bestaunt, die da herumgesessen ist, dann sind wir mit dem Taxi zurück nach Pokhara ins Hotel gefahren. Die Fahrt war richtig gruslig, weil manchmal Teile der Straße weggebrochen waren (wegen Erdrutschen). Aber es ist mal wieder nix passiert. Am Abend waren wir noch mit Nishan in Pokhara essen. In dem Restaurant hat es ein Unterhaltungsprogramm für Touristen gegeben, bei dem unterschiedliche Volkstänze aus verschiedenen Regionen Nepals vorgeführt wurden. Das war zwar einfach nur Touristenbespaßung, aber irgendwie auch sehr cool zu sehen. Am Schluss gab es einen Tanz, wo alle mitmachen mussten, und natürlich wurden wir auch auf die Bühne geschleift.
 
-##### Fortsetzung folgt
+## Fortsetzung folgt
 
 Am nächsten Tag sind wir mit dem Bus zum Chitwan Nationalpark gefahren, aber mehr darüber was dort passiert ist, gibt es dann in nächsten Blogeintrag zu lesen. Auf alle Fälle geht es uns gut und wir haben es heil wieder aus Nepal herausgeschafft, also macht euch keine Sorgen undso :)

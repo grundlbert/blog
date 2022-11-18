@@ -3,7 +3,7 @@ title: 30.9. Voll abgehoben
 author: Daliah
 bg_img: schwingM.JPG
 comment_title: abgehoben
-bg_img: NEPAL.JPG
+bg_img: /main_img/NEPAL.JPG
 ---
 
 Nachdem wir am Mittwoch in Wien einen lustigen Abend mit alten und neuen Freunden verbracht haben und uns am nächsten Tag mit weiteren wichtigen Menschen, die es nicht zur Abschedsparty geschafft haben eine Pizza gegönnt haben, sind wir endlich zum Flughafen gefahren.

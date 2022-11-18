@@ -12,7 +12,7 @@ h1, title {
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
   font-size: x-large;
 }
 
@@ -35,8 +35,8 @@ h4 { /*Englischer TExt*/
 }
 
 h5 {
-  text-align: left;
-  font-size: x-large;
+  text-align: center;
+  font-size: large;
   margin: 0;
 }
 
@@ -104,6 +104,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 5px;
 }
 
 .nav_current {

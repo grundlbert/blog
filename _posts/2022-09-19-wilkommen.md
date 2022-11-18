@@ -1,7 +1,7 @@
 ---
 title: 19.9. Willkommen
 author: Daliah
-bg_img: AT-mohn.JPG
+bg_img: /main_img/AT-mohn.JPG
 comment_title: wilkommen
 ---
 
