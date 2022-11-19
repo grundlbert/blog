@@ -79,11 +79,15 @@ Wenn man eine Bananenblüte hat, kann man damit Bananenblütencurry machen. Ganz
 
 Aus den Kokosraspeln hat Mel Kokosmilch gemacht. Dazu hat sie Kokosraspeln und Kokosmilch in eine Schüssel gegeben, gemischt und dann die Flüssigkeit mit den Händen aus den Kokosraspeln gepresst. Wir haben verschiedenes Gemüse geschnitten und Mel hat die Bananenblüte in feine Scheiben gehackt. Dann wurde alles in einem Topf gekocht und anschließend mit selbstgemischtem Currypulver gewürzt. Das ganze haben wir mit Reis auf der Terrasse gegessen und dabei den Sonnenuntergang angeschaut.
 
-##### Geckos
+##### Geckos und andere Reptilien
 
-Zwischen den Balken und Blättern der traditionellen Dächer leben oft Geckos. Sie machen manchmal Geräusche, einige sagen sogar "Gecko". Die Geckos fressen Moskitos und andere Insekten, deswegen sind sie gern gesehen. Ein kleine Nachteil ist, dass die Geckos vom Dach aus überall hinscheißen können, unter anderem auch ins Bett. Wir haben uns nach unserem Umzug ins Jungle House bald ein Moskitonetz installiert, damit hat sich zumindest dieses Problem erledigt. Die meisten Geckos waren eher klein, aber wir hatten auch zwei sehr große in unserer Hütte.
+Zwischen den Balken und Blättern der traditionellen Dächer leben oft Geckos. Sie machen manchmal Geräusche, einige sagen sogar "Gecko". Die Geckos fressen Moskitos und andere Insekten, deswegen sind sie gern gesehen. Ein kleine Nachteil ist, dass die Geckos vom Dach aus überall hinscheißen können, unter anderem auch ins Bett. Wir haben uns nach unserem Umzug ins Jungle House bald ein Moskitonetz installiert, damit hat sich zumindest dieses Problem erledigt. Die meisten Geckos waren eher klein, aber wir hatten auch zwei große Tokeh Geckos in unserer Hütte.
 
-{% include image.html file="/busubay/gecko.JPG" description="Die großen Geckos am Dach (Bestimmungsvorschläge herzlich willkommen)" width="60%" %}
+{% include image.html file="/busubay/gecko.JPG" description="Die beiden Tokeh Geckos (Gecko gecko), die in unserem Dach gewohnt haben (Vielen Dank an Elia für die Bestimmung)" width="60%" %}
+
+Abgesehen von den Geckos haben wir auch noch einige Eidechsen und sehr fotogenes grünes Reptil gesehen.
+
+{% include image.html file="/busubay/greenboi.JPG" description="Fotogenes grünes Reptil (Bestimmungsvorschläge willkommen!)" width="60%" %}
 
 ##### Kajakfahren
 
