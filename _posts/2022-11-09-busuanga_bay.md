@@ -81,11 +81,9 @@ Aus den Kokosraspeln hat Mel Kokosmilch gemacht. Dazu hat sie Kokosraspeln und K
 
 ##### Geckos und andere Reptilien
 
-Zwischen den Balken und Blättern der traditionellen Dächer leben oft Geckos. Sie machen manchmal Geräusche, einige sagen sogar "Gecko". Die Geckos fressen Moskitos und andere Insekten, deswegen sind sie gern gesehen. Ein kleine Nachteil ist, dass die Geckos vom Dach aus überall hinscheißen können, unter anderem auch ins Bett. Wir haben uns nach unserem Umzug ins Jungle House bald ein Moskitonetz installiert, damit hat sich zumindest dieses Problem erledigt. Die meisten Geckos waren eher klein, aber wir hatten auch zwei große Tokeh Geckos in unserer Hütte.
+Zwischen den Balken und Blättern der traditionellen Dächer leben oft Geckos. Sie machen manchmal Geräusche, einige sagen sogar "Gecko". Die Geckos fressen Moskitos und andere Insekten, deswegen sind sie gern gesehen. Ein kleine Nachteil ist, dass die Geckos vom Dach aus überall hinscheißen können, unter anderem auch ins Bett. Wir haben uns nach unserem Umzug ins Jungle House bald ein Moskitonetz installiert, damit hat sich zumindest dieses Problem erledigt. Die meisten Geckos waren eher klein, aber wir hatten auch zwei große Tokeh Geckos in unserer Hütte. Abgesehen von den Geckos haben wir auch noch einige Eidechsen und sehr fotogenes grünes Reptil gesehen.
 
 {% include image.html file="/busubay/gecko.JPG" description="Die beiden Tokeh Geckos (Gecko gecko), die in unserem Dach gewohnt haben (Vielen Dank an Elia für die Bestimmung)" width="60%" %}
-
-Abgesehen von den Geckos haben wir auch noch einige Eidechsen und sehr fotogenes grünes Reptil gesehen.
 
 {% include image.html file="/busubay/greenboi.JPG" description="Fotogenes grünes Reptil (Bestimmungsvorschläge willkommen!)" width="60%" %}
 
