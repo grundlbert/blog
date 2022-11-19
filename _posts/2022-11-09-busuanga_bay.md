@@ -5,7 +5,7 @@ comment_title: busuanga
 bg_img: /main_img/PHILIPPINEN.JPG
 ---
 
-Zu Beginn eine kleine Auffrischung für alle, die vergessen haben, wo wir aufgehört haben: Wir waren im *Al Faro* einem Luxushotel, das gleich neben dem Grundstück von Andy lag. Andy ist ein englischer Segler, der sich ein Grundstück in den Philippinen gekauft hat, und dort eine coole Community aufbauen will. Wir haben ihn über die Plattform Workaway kennengelernt und der plan war, dass wir einige Arbeiten für ihn erledigen und dafür bei ihm wohnen können. Weil sein Grundstück nur per Boot erreichbar ist und sein Boot kaputt ist, haben wir eine Nacht im *Al Faro* gebucht, die haben nämlich ein Boot.
+Zu Beginn eine kleine Auffrischung für alle, die vergessen haben, wo wir aufgehört haben: Wir waren im *Al Faro* einem Luxushotel, das gleich neben dem Grundstück von Andy lag. Andy ist ein englischer Segler, der sich ein Grundstück in den Philippinen gekauft hat, und dort eine coole Community aufbauen will. Wir haben ihn über die Plattform Workaway kennengelernt und der Plan war, dass wir einige Arbeiten für ihn erledigen und dafür bei ihm wohnen können. Weil sein Grundstück nur per Boot erreichbar ist und sein Boot kaputt ist, haben wir eine Nacht im *Al Faro* gebucht, die haben nämlich ein Boot.
 
 Die Leute vom *Al Faro* haben uns tatsächlich zu Andys Dock gefahren. Vorher wurden wir jedoch noch einmal ordentlich verunsichert, wir haben nämlich der Besitzerin vom *Al Faro* erzählt, dass wir zu Andy fahren und sie ist ein bissl grantig geworden und hat so Sachen gesagt wie *"He's not a friend of the bay"* und *"He plays tricks on everyone"*. Also sind wir mit einem etwas mulmigen Gefühl zum Nachbarsdock geschippert.
 
