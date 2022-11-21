@@ -81,11 +81,11 @@ Aus den Kokosraspeln hat Mel Kokosmilch gemacht. Dazu hat sie Kokosraspeln und K
 
 ##### Geckos und andere Reptilien
 
-Zwischen den Balken und Blättern der traditionellen Dächer leben oft Geckos. Sie machen manchmal Geräusche, einige sagen sogar "Gecko". Die Geckos fressen Moskitos und andere Insekten, deswegen sind sie gern gesehen. Ein kleine Nachteil ist, dass die Geckos vom Dach aus überall hinscheißen können, unter anderem auch ins Bett. Wir haben uns nach unserem Umzug ins Jungle House bald ein Moskitonetz installiert, damit hat sich zumindest dieses Problem erledigt. Die meisten Geckos waren eher klein, aber wir hatten auch zwei große Tokeh Geckos in unserer Hütte. Abgesehen von den Geckos haben wir auch noch einige Eidechsen und sehr fotogenes grünes Reptil gesehen.
+Zwischen den Balken und Blättern der traditionellen Dächer leben oft Geckos. Sie machen manchmal Geräusche, einige sagen sogar "Gecko". Die Geckos fressen Moskitos und andere Insekten, deswegen sind sie gern gesehen. Ein kleine Nachteil ist, dass die Geckos vom Dach aus überall hinscheißen können, unter anderem auch ins Bett. Wir haben uns nach unserem Umzug ins Jungle House bald ein Moskitonetz installiert, damit hat sich zumindest dieses Problem erledigt. Die meisten Geckos waren eher klein, aber wir hatten auch zwei große Tokeh Geckos in unserer Hütte. Abgesehen von den Geckos haben wir auch noch einige Eidechsen und eine sehr fotogene Borneo-Langschwanzagame *Bronchocela cristatella* gesehen (Vielen Dank an Mario für die Bestimmung!).
 
 {% include image.html file="/busubay/gecko.JPG" description="Die beiden Tokeh Geckos (Gecko gecko), die in unserem Dach gewohnt haben (Vielen Dank an Elia für die Bestimmung)" width="60%" %}
 
-{% include image.html file="/busubay/greenboi.JPG" description="Fotogenes grünes Reptil (Bestimmungsvorschläge willkommen!)" width="60%" %}
+{% include image.html file="/busubay/greenboi.JPG" description="Sehr fotogene Borneo-Langschwanzagame" width="60%" %}
 
 ##### Kajakfahren
 
@@ -108,7 +108,7 @@ Andy besaß einige *moorings* (Ankerplätze für Boote) in der Bucht. An einem d
 
 {% include image.html file="/busubay/segeln.JPG" description="Auf Ludgers Boot" width="60%" %}
 
-Als wir das Riff erreicht haben, haben wir uns mit Schnorchel und Taucherbrille in die seichten Fluten gestürzt. Das Riff war der Wahnsinn. Ich bin noch nie an einem Ort herumgeschnorchelt, wo auf so kleinem Raum so viele Arten zu sehen waren. Es gab Korallen in verschiedensten Farben und Formen, blaue Seesterne und Grüppchen von Seeigeln mit langen Stacheln. Außerdem gab es unglaublich viele verschiedene Arten von Fischen. Manche davon waren in großen Schwärmen unterwegs, andere hielten sich immer bei der gleichen Koralle auf, aber meistens war es einfach ein buntes durcheinander aus bunten Farben. Wir haben Anemonenfische gesehen, die bei ihrer Seeannemone gechillt haben und ausgesehen haben wie Clownfische (die es aber dort wo wir waren anscheinend nicht gibt).
+Als wir das Riff erreicht haben, haben wir uns mit Schnorchel und Taucherbrille in die seichten Fluten gestürzt. Das Riff war der Wahnsinn. Ich bin noch nie an einem Ort herumgeschnorchelt, wo auf so kleinem Raum so viele Arten zu sehen waren. Es gab Korallen in verschiedensten Farben und Formen, blaue Seesterne und Grüppchen von Seeigeln mit langen Stacheln. Außerdem gab es unglaublich viele verschiedene Arten von Fischen. Manche davon waren in großen Schwärmen unterwegs, andere hielten sich immer bei der gleichen Koralle auf, aber meistens war es einfach ein buntes durcheinander aus bunten Farben. Wir haben Anemonenfische gesehen, die bei ihrer Seeannemone gechillt haben und ausgesehen haben wie echte Clownfische. In Wirklichkeit waren es aber falsche Clownfische *Amphiprion ocellaris*(Vielen Dank an Elia für die Bestimmung!).
 
 {% include image.html file="/busubay/clown.JPG" description="Anemonenfische bei ihrer Anemone" width="60%" %}
 {% include image.html file="/busubay/zebra.JPG" description="Eine kleine Gruppe von Fischen, die immer bei dieser einen Koralle geblieben sind" width="60%" %}
