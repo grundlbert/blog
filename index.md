@@ -4,9 +4,9 @@ title: Home
 bg_img: /main_img/PHILIPPINEN.JPG
 ---
 
-# Willkommen auf Daliahs anarchischem Reiseblog!
+# Willkommen auf Daliahs leicht anarchischem Reiseblog!
 
-### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Weil ich den Blog nur zum Spaß mache kann es passieren, dass mal ein Monat nix passiert, weil bei mir zu viel passiert und ich mich nicht stressen lassen will. Ich freue mich immer wie ein Schnitzel über Kommentare, weil das heißt, dass irgendwer den Schmarrn gelesen hat und das macht mich fröhlich.
+### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Weil ich den Blog nur zum Spaß mache kann es passieren, dass mal ein Monat nix passiert, weil bei mir zu viel passiert und ich mich nicht stressen lassen will. Ich freue mich immer wie ein Schnitzel über Kommentare. Das heißt nämlich, dass irgendwer den Schmarrn gelesen hat und das macht mich fröhlich.
 
 <img src="/assets/img/main_img/Karte.JPG" alt="Weltreisekarte" width="70%">
 
