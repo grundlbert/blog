@@ -1,0 +1,1 @@
+Coolio, bin scho gspond wi a gummiringal wies weida geht🙂
