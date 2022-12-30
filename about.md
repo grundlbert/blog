@@ -5,10 +5,8 @@ bg_img: /main_img/NEPAL.JPG
 ---
 # Hallo!
 
-### Wir sind Daliah und Martin und weil es vielleicht ein paar Leute gibt, die sich auf diesen Blog verirrt haben und nur einen von uns kennen, stellen wir uns hier mal kurz vor. Aber da das ein bisschen schwierig ist, brauchen wir leider noch ein bisschen.
+#### Mein Name ist Daliah und ich wollte mir schon immer mal die Welt anschauen. Ich finde Biologie ziemlich cool gefunden, deswegen hab ich es studiert, und inzwischen sogar endlich meinen Bachelor fertig. Vielleicht mach ich mal was mit Naturschutz oderso. Außerdem spiele ich E-Bass, unter anderem in einer Band namens Mandelkern. Ich fotografiere gerne, mache das aber noch nicht so lang und bin nicht sonderlich gut darin. Ich mag Knoten, kanz egal ob Segelknoten oder Macramée oder was auch immer. Meine Lieblingsfarbe ist Grün, meine Lieblingshülsenfrüchte sind Kichererbsen, ich mag Boote und gehe gerne spazieren.
 
+#### Ich reise gemeinsam mit meinem Freund Martin. Martin hat derzeit noch keinen Bock, eine Beschreibung über sich selbst zu schreiben. Er mach gerne musik und ist ziemlich cool. 
 
 {% include image.html file="/main_img/eis_vienne.jpeg" description="Daliah und Martin beim Eisessen" width="60%" %}
-
-
-#### We are Daliah and Martin and if you found your way to this Blog we assume you already know us. We will probably still tell you some fun-facts about us on this page soon, so stay tuned!
