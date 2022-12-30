@@ -110,3 +110,13 @@
   post: barge
   name: Opa
   message: 2022-12-30-opa.md
+- date: 30.12.2022
+  post: barge
+  name: Gottfried
+  message: 2022-12-30-gottfried.md
+- date: 31.12.2022
+  post: barge
+  name: Lisi
+  message: 2022-12-31-lisi.md
+
+
