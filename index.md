@@ -10,6 +10,6 @@ bg_img: /main_img/PHILIPPINEN.JPG
 
 <img src="/assets/img/main_img/cocktail.JPG" alt="Weltreisekarte" width="70%">
 
-#### Welcome to Daliah's Travel Blog! Here you can read about our adventures on our world trip (I will try to add a little english summary of every Post at the bottom because I know I will be too lazy for a full translation, let's keep it realistic...if I don't even manage to do that, all the posts still have some nice pictures.). Have fun!
+#### Welcome to Daliah's Travel Blog! Here you can read about our adventures on our world trip (I will try to add a little english summary of every Post at the bottom because I know I will be too lazy for a full translation, let's keep it realistic...if I don't even manage to do that, all the posts still have some nice pictures). Have fun!
 
 

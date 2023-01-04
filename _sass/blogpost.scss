@@ -1,9 +1,4 @@
-/*COLOR PALETTE
-  red #ff6f69
-  pale yellow #ffeead
-  orange #ffcc5c
-  pale turquoise 	#96ceb4
-  turquoise  	#88d8b0 */
+@import 'variables';
 
 .blogpost {
   h5 {
@@ -21,7 +16,11 @@ h2 {
 }
 
 .com_Section {
-  background-color: #f9d27f;
+  background-color: $background-color-int;
+  border: black;
+  border-style: solid;
+  border-radius: $border-r;
+  border-width: $border-w;
   padding: calc(1%) calc(5%);
   textarea {
     width: 100%;
@@ -30,11 +29,13 @@ h2 {
 }
 
 .com_Comment {
-  border: #ff6f69;
+  border: $flashy-color;
   border-style: solid;
+  border-width: $border-w;
+  border-radius: $border-r;
   padding: calc(1%);
   margin: calc(1%) 0;
-  background-color: #f9d27f;
+  background-color: $background-color-int;
   h5 {
     font-size: large;
     text-align: left;
@@ -43,10 +44,14 @@ h2 {
 }
 
 .teaser {
-  background-color: #96ceb4;
+  background-color: $nav-color;
   padding: calc(1%) calc(5%);
   margin-top: 30px;
   margin-bottom: 30px;
+  border: black;
+  border-style: solid;
+  border-radius: $border-r;
+  border-width: $border-w;
   textarea {
     width: 100%;
     height: 200px;
