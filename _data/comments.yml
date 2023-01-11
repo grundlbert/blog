@@ -126,5 +126,16 @@
   post: sydney2
   name: Lisi
   message: 2023-01-05-lisi.md
-
+- date: 5.1.2023
+  post: sydney2
+  name: Clara
+  message: 2023-01-05-clara2.md
+- date: 7.1.2023
+  post: sydney2
+  name: Fredi
+  message: 2023-01-07-fredi.md
+- date: 10.1.2023
+  post: sydney2
+  name: Hannelore
+  message: 2023-01-10-hannelore.md
 
