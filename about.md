@@ -14,6 +14,8 @@ bg_img: /main_img/NEPAL.JPG
 {% include image.html file="/main_img/MARTIN.JPG" description="Martin" width="60%" %}
 
 <br><br>
-<center>
-    <a href="/secret.html">_</a>
-</center>
+<div class="secretlink">
+    <center>
+        <a href="/secret.html">&#9791;</a>
+    </center>
+</div>

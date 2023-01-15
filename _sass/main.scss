@@ -147,13 +147,49 @@ img {
     font-size: xx-large;
     text-align: center;
     font-family: sans-serif;
+    margin-bottom: 2em;
   }
   h2 {
     text-align: left;
     font-size: x-large;
+    font-variant: small-caps;
+    background-color: $background-color-int;
+    color: black;
+    text-decoration: none;
+    border-radius: $border-r;
+    border-style: solid;
+    border-width: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  a:link {
+    color: $flashy-color;
+    background-color: transparent;
+    text-decoration:underline ;
+  }
+
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
   }
 }
 
+.secretlink{
+  a:link {
+    color: $background-color-int;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: $flashy-color;
+    background-color: transparent;
+    text-decoration: none;
+  }
+}
 @media (max-width: 39.9375em) {
   main {
     width: 80%;
