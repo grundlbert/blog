@@ -1,6 +1,7 @@
 ---
 title: 28.10. Coron Town
 author: Daliah
+country: Philippines
 comment_title: coron
 bg_img: /main_img/PHILIPPINEN.JPG
 ---

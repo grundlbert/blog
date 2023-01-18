@@ -1,7 +1,7 @@
 ---
 title: 30.9. Voll abgehoben
 author: Daliah
-bg_img: schwingM.JPG
+country: Nepal
 comment_title: abgehoben
 bg_img: /main_img/NEPAL.JPG
 ---

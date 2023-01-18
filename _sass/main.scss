@@ -152,22 +152,19 @@ img {
   h2 {
     text-align: left;
     font-size: x-large;
-    font-variant: small-caps;
-    background-color: $background-color-int;
     color: black;
     text-decoration: none;
-    border-radius: $border-r;
-    border-style: solid;
-    border-width: 2px;
+    display: block;
+    float: left;
+  }
+  a:link {
+    color: black;
+    text-decoration:underline ;
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-  }
-  a:link {
-    color: $flashy-color;
-    background-color: transparent;
-    text-decoration:underline ;
+    border-radius: $border-r;
   }
 
   a:visited {
@@ -175,6 +172,22 @@ img {
     background-color: transparent;
     text-decoration: underline;
   }
+}
+.country {
+  font-variant: small-caps;
+  text-align: right;
+  display: block;
+}
+.entrytitle {
+  background-color: $background-color-int;
+  border-radius: $border-r;
+  border-style: solid;
+  border-width: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width:100%;
 }
 
 .secretlink{

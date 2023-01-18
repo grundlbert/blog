@@ -1,6 +1,7 @@
 ---
 title: 18.10. Hallo wir leben noch!
 author: Daliah
+country: Nepal
 comment_title: wir_leben_noch
 bg_img: /main_img/NEPAL.JPG
 ---

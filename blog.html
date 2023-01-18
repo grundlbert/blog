@@ -8,7 +8,7 @@ bg_img: /main_img/PHILIPPINEN.JPG
   <ul type="none">
     {% for post in site.posts %}
      <li>
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <div class="entrytitle"><h2><a href="{{ post.url }}">{{ post.title }}</a></h2><p class ="country">{{post.country}}</p></div>
         {{ post.excerpt }}
      </li>
    {% endfor %}
