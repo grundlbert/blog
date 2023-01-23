@@ -1,5 +1,5 @@
 ---
-title: 19.9. Willkommen
+title: Willkommen
 author: Daliah
 country: Austria
 bg_img: /main_img/AT-mohn.JPG

@@ -1,5 +1,5 @@
 ---
-title: 30.9. Voll abgehoben
+title: Voll abgehoben
 author: Daliah
 country: Nepal
 comment_title: abgehoben

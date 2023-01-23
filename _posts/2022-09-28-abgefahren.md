@@ -1,5 +1,5 @@
 ---
-title: 28.9. Voll abgefahren
+title: Voll abgefahren
 author: Daliah
 country: Austria
 bg_img: /main_img/AT-mohn.JPG

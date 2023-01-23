@@ -1,5 +1,5 @@
 ---
-title: 9.11. Alles okay in Busuanga Bay
+title: Alles okay in Busuanga Bay
 author: Daliah
 country: Philippines
 comment_title: busuanga

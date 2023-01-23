@@ -1,5 +1,5 @@
 ---
-title: 18.10. Hallo wir leben noch!
+title: Hallo wir leben noch!
 author: Daliah
 country: Nepal
 comment_title: wir_leben_noch

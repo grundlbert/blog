@@ -1,5 +1,5 @@
 ---
-title: 28.10. Coron Town
+title: Coron Town
 author: Daliah
 country: Philippines
 comment_title: coron
