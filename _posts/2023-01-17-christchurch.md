@@ -6,7 +6,7 @@ comment_title: christchurch
 bg_img: /main_img/NEUSEELAND.JPG
 ---
 
-Mitten in der Nacht kommen wir in Christchurch am Flughafen an. Wir haben kein Hotel und keinen Platz zum Schlafen, aber in einer Ecke im Flughafen stehen einige Schaumstoffwürfel. Wie schieben uns ein paar davon zu einem Bett zusammen und schlafen überraschend gut. Keiner verscheucht uns und wir wachen am morgen des 6. Dezember leicht verwirrt, aber frisch und munter auf. An der Bushaltestelle vor dem Flughafen unterhalten wir uns mit einem Mann aus Queenstown, dann nehmen wir den Bus in die Stadt...
+Mitten in der Nacht kommen wir in Christchurch am Flughafen an. Wir haben kein Hotel und keinen Platz zum Schlafen, aber in einer Ecke im Flughafen stehen einige Schaumstoffwürfel herum. Wie schieben uns ein paar davon zu einem Bett zusammen und schlafen überraschend gut. Keiner verscheucht uns und wir wachen am morgen des 6. Dezember leicht verwirrt, aber frisch und munter auf. An der Bushaltestelle vor dem Flughafen unterhalten wir uns mit einem Mann aus Queenstown, dann nehmen wir den Bus in die Stadt...
 
 Als wir aus dem Bus aussteigen, stehen wir vor einem richtig süßen Café. Dort machen wir einen Pause, setzen wir uns ans Fenster und frühstücken erstmal. Avocadotoast und Porridge (mit einer ganzen Birne in der Mitte), zur Feier des Tages. Wir sitzen noch ein bisschen, trinken kaffee und schauen, dann fahren wir mit dem nächsten Bus weiter. Alle Busfahrer (bis jetzt 2) wirken sehr entspannt hier, außerdem geben sie sich wahnsinnig Mühe, uns weiterzuhelfen. Wir steigen wieder aus und latschen zum *Historic Jail* von Christchurch, das jetzt ein Hostel ist. Es ist zu früh zum einchecken, wir sperren unsere Rucksäcke in einen Rucksackeinsperrraum und machen uns wieder vom Acker.
 
