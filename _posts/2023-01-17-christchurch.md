@@ -32,7 +32,7 @@ Am nächsten Tag checken wir aus dem Gefängnis aus und versuchen, mit dem Bus z
 
 <div class="teaser">
 
-    <h2>In der nächsten Ausgabe</h2>
+    <h2>In der nächsten oder übernächsten Ausgabe</h2>
 
     <h3>Wie kompliziert Linksverkehr wirklich ist</h3>
     <h3>Fotos von Wallabies</h3>
