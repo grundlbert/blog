@@ -29,6 +29,6 @@ layout: bonuspage
 
 <div class="textbox1">
     <center>
-        <a href="/2023/02/10/roadtrip.html">Ich will zurück zum Blogeitrag!</a>
+        <a href="/2023/02/14/roadtrip.html">Ich will zurück zum Blogeitrag!</a>
     </center>
 </div>
