@@ -31,4 +31,36 @@ layout: bonuspage
     <center>
         <a href="/2023/02/14/roadtrip.html">Ich will zurück zum Blogeitrag!</a>
     </center>
+</div><div class="com_Section">
+    <form id="postCommentFormNetlify" method="POST" netlify-honeypot="bot-field" data-netlify="true" accept-charset="utf-8">
+        <h2>Kommentare</h2>
+        <input type="hidden" name="subject" value="Blog Kommentar" /><br><br>
+        <input type="hidden" name="blogpost" value="{{ page.title }}" />
+        <label>Name:<br><input type="text" name="name" placeholder="Dein Name" required></label><br><br>
+        <label>Gib deinen Senf dazu!<br><textarea name="message" placeholder="Deine Nachricht"></textarea></label><br>
+
+        <!--<label>Mein Kommentar soll veröffentlicht werden:</label>
+            <input type="checkbox" name="veroeffentlichen" value="yes" checked><br><br> -->
+        <i>
+            <label>
+                <br>Da die Kommentare für uns der einzige Weg sind herauszufinden wer das eigentlich so liest was wir so schreiben freuen wir uns vollgas über jeden Einzelnen! :D
+                <br>Jeder Kommentar wird von uns hochqualitativ und eigenhändig eingefügt wird, deshalb kann es ein Bisschen dauern, bis er hier erscheint.<br>
+                <br>Alle Kommentare werden veröffentlicht.<br
+            </label>
+        </i><br>
+        <div class="cell">
+            <button type="submit" class="button" name="submit">Abschicken</button>
+        </div> 
+    </form>
+    <br>
+    
+    {% for item in site.data.comments %}
+        {% if item.post == page.comment_title %}
+            <div class="com_Comment">
+                <h5>{{ item.date }} - {{ item.name }}</h5>
+                {% capture postcomment %}{% include comments/{{ item.message }} %}{% endcapture %}
+                {{ postcomment | markdownify }}
+            </div>
+        {% endif %}
+    {% endfor %}
 </div>
