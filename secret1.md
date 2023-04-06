@@ -1,6 +1,6 @@
 ---
 layout: secret_layout
-title: The Secret Page
+title: Secret Page 1
 bg_img: /main_img/SECRET.JPG
 comment_title: secret1
 ---
