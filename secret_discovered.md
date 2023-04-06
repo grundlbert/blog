@@ -1,9 +1,12 @@
 ---
 layout: discovered_secret
 title: Discovered Secret
-bg_img: /main_img/SECRET.JPG
+bg_img: /main_img/Code.jpg
 ---
 
-<h1>DAS GEHEIMNIS WURDE AUSGEPLAUDERT!</h1>
+# Das Geheimnis wurde ausgeplaudert!
 
-<p>Um die Geheimhaltung zu wahren ist die Secret Page umgezogen.</p>
+Um die Geheimhaltung zu wahren ist die Secret Page umgezogen.
+
+<br>
+<a href="/index.html"> Zurück zur Startseite</a>

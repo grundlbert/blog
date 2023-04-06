@@ -213,17 +213,20 @@ img {
     padding: calc(3%) calc(5%);
     border: white;
     border-style: solid;
-    border-radius: $border-r;
     border-width: $border-w;
+    border-radius: 0%;
   }
   h1 {
     color: white;
     font-size: xx-large;
+    font-family: monospace;
+    font-weight: 900;
   }
   p{
     color: white;
-    font-size: larger;
+    font-size: x-large;
     text-align: center;
+    font-family: monospace;
   }
   body {
     background-image:url("/assets/img/AT-mohn.JPG");
