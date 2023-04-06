@@ -13,4 +13,10 @@ Aber ich erzähle lieber, was es mit der großen Reise auf sich hat und warum ic
 
 Auf alle Fälle werden wir jetzt ein dreiviertel Jahr unterwegs sein und dabei im Zickzack die Erde umrunden und weil wir ja beide doch einige Leute kennen, denen wir gerne erzählen würden was so abgeht, gibts es jetzt diesen leckeren, hausgemachten (selbstprogrammierten) Reiseblog.
 
+<div class="secretlink">
+    <center>
+        <a href="/secret1.html">&#9791;</a>
+    </center>
+</div>
+
 *Welcome to my travel blog. We haven't started our journey yet, so there is not a lot to write about yet, but I can tell you that I am really excited about both the journey and the blog, so I will write a little bit about the journey and why I write a blog: We will start on the 29th of april at the train station in Braunau am Inn (Yes, that is where Hitler was born), from there we will go to Vienna and from there we will fly to Kathmandu (Nepal)! We plan to stay in Kathmandu for three days before we start exploring the nepalese jungle, but i will tell you more about that when it actually happened.*

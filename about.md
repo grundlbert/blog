@@ -16,6 +16,6 @@ bg_img: /main_img/NEPAL.JPG
 <br><br>
 <div class="secretlink">
     <center>
-        <a href="/secret.html">&#9791;</a>
+        <a href="/secret_discovered.html">&#9791;</a>
     </center>
 </div>

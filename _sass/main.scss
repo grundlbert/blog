@@ -203,6 +203,65 @@ img {
     text-decoration: none;
   }
 }
+
+.discovered_secret {
+  main {
+    width: 40%;
+    max-width: 1500px;
+    background-color: black;
+    margin: 10% auto 0px auto;
+    padding: calc(3%) calc(5%);
+    border: white;
+    border-style: solid;
+    border-radius: $border-r;
+    border-width: $border-w;
+  }
+  h1 {
+    color: white;
+    font-size: xx-large;
+  }
+  p{
+    color: white;
+    font-size: larger;
+    text-align: center;
+  }
+  body {
+    background-image:url("/assets/img/AT-mohn.JPG");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /*background-color: #ff6f69;*/
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  } 
+  footer{
+    text-align: center;
+    width: 30%;
+    max-width: 1500px;
+    background-color: black;
+    margin: 20% auto 0px auto;
+    padding: calc(3%) calc(5%);
+    border: white;
+    border-style: solid;
+    border-radius: $border-r;
+    border-width: $border-w;
+  }
+  .linkback{
+    a:link {
+      color: white;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  
+    a:visited {
+      color: white;
+      background-color: transparent;
+      text-decoration: none;
+    }
+  }
+}
+
 @media (max-width: 39.9375em) {
   main {
     width: 80%;
