@@ -26,6 +26,8 @@ Schnüre sind toll falls man eine Wäscheleine braucht, eine Tür fisieren will,
 
 ##### Plastikdokumentenhüllen
 Wir haben bunte, kuvertförmige Taschen aus Plastik, in denen wir unsere Dokumente versteut haben. Ich habe eine kleine für Pass, Führerschein und Impfpass und eine Große für alle anderen Zettel, die ich so dabei habe.
+
 ##### Eine winzige Klammerlmaschine
+Nach und Nach haben sich bei uns einige Zettel angesammelt. Mit so einer Klammerlmaschine kann man sich da schnell einen Überblick schaffen und es fliegt nicht mehr alles durcheinander. Außerdem kann man damit super Dokumentenhüllen reparieren.
 
 
