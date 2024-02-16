@@ -6,7 +6,7 @@ bg_img: /main_img/PHILIPPINEN.JPG
 
 # Willkommen auf Daliahs Reiseblog!
 
-### Hier findet ihr nicht nur Reiseberichte von unserer Weltreise von Oktober 2022 bis Juni 2023, sondern auch lustige *Secret Pages* und sehr viele Bilder von Wallabies. Viel Spaß damit!
+### Hier findet ihr nicht nur Reiseberichte von unserer Weltreise von Oktober 2022 bis Juni 2023, sondern auch lustige *Secret Pages* und sehr viele Bilder von Wallabies. Außerdem kann man Kommentare schreiben, das macht mich dann meistens sehr fröhlich. Viel Spaß!
 
 <img src="/assets/img/main_img/cocktail.JPG" alt="Weltreisekarte" width="70%">
 
