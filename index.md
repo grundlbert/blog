@@ -6,7 +6,7 @@ bg_img: /main_img/PHILIPPINEN.JPG
 
 # Willkommen auf Daliahs Reiseblog!
 
-### Hier kann man unsere Weltreise und den Fortschritt meiner Programmierskills mitverfolgen. Es kann jederzeit passieren, dass mal ein Monat nix passiert, weil bei mir zu viel passiert. Ich mach den Blog nur zum Spaß und will mich nicht davion stressen lassen. Ich freue mich immer wie ein Schnitzel über Kommentare. Das heißt nämlich, dass irgendwer den Schmarrn gelesen hat und das macht mich fröhlich.
+### Hier findet ihr nicht nur Reiseberichte von unserer Weltreise von Oktober 2022 bis Juni 2023, sondern auch lustige *Secret Pages* und sehr viele Bilder von Wallabies. Viel Spaß damit!
 
 <img src="/assets/img/main_img/cocktail.JPG" alt="Weltreisekarte" width="70%">
 
