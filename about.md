@@ -5,7 +5,7 @@ bg_img: /main_img/NEPAL.JPG
 ---
 # Hallo!
 
-#### Mein Name ist Daliah und ich wollte mir schon immer mal die Welt anschauen. Ich finde Biologie ziemlich cool, deswegen hab ich es studiert und inzwischen sogar endlich meinen Bachelor fertig gemacht. Vielleicht mach ich mal was mit Naturschutz oderso. Außerdem spiele ich E-Bass, unter anderem in einer Band namens Mandelkern. Ich fotografiere gerne, mache das aber noch nicht so lang und bin nicht sonderlich gut darin. Ich mag Knoten (Segelknoten, Macramée, was auch immer). Meine Lieblingsfarbe ist Grün, meine Lieblingshülsenfrüchte sind Kichererbsen, ich mag Boote und Schaukeln und gehe gerne spazieren.
+#### Mein Name ist Daliah und ich wollte mir schon immer mal die Welt anschauen. Ich finde Biologie ziemlich cool, deswegen hab ich es studiert und inzwischen sogar endlich meinen Bachelor fertig gemacht. Seit ich von unserer Weltreise zurückgekommen bin lebe ich in Wien und studiere Naturschitz an der Uni Wien. Außerdem spiele ich E-Bass, unter anderem in einer Band namens Mandelkern. Ich fotografiere gerne, mache das aber noch nicht so lang und bin nicht sonderlich gut darin. Ich mag Knoten und bastle und werke gerne an meinem Umfeld herum. Meine Lieblingsfarbe ist Grün, meine Lieblingshülsenfrüchte sind Kichererbsen, ich mag Boote und Schaukeln und gehe gerne spazieren.
 
 {% include image.html file="/main_img/DALIAH.JPG" description="Daliah" width="60%" %}
 
